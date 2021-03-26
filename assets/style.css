@@ -35,6 +35,9 @@ header nav ul li a {
   font-weight: lighter;
   font-size: 22px;
 }
+
+/* footer styles */
+
 footer {
   background: #fce138;
   width: 100%;
@@ -53,6 +56,8 @@ footer div {
 }
 footer a {
   color: #024e76;
+
+  /* footer style ends */
 }
 section {
   padding: 60px;
