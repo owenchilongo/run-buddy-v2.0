@@ -50,9 +50,8 @@ header nav ul li a {
   font-size: 1.55vw;
 }
 
-/* header styles end */
+/* footer styles */
 
-/* footer styles start */
 footer {
   background: #fce138;
   width: 100%;
@@ -77,6 +76,8 @@ footer div {
 
 footer a {
   color: #024e76;
+
+  /* footer style ends */
 }
 /* footer styles ends */
 
